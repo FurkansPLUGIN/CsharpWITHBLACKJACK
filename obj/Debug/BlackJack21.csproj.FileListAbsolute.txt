@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe.config
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\bin\Debug\BlackJack21.pdb
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.Form1.resources
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.Properties.Resources.resources
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.exe
+C:\Users\lenovo\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.pdb
